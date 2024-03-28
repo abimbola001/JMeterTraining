@@ -1,4 +1,4 @@
-name: Test JMeter on GitHub Actions
+name: Test JMeter on GitHub Actionss
 
 on:
     workflow_dispatch:
